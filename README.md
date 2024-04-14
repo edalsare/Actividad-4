@@ -1,0 +1,1 @@
+EN el archivo actividad 4 se encuentra el codigo ejecutado para la elaboracion del algoritmo, mientras que en el archivo accidente-de-trafico-en-bogota-entre-2007-y-2017-geopoint, se encuentra la data utilizada, la cual fue optenida de la siguiente pagina: https://transport.opendatasoft.com/explore/dataset/accidente-de-trafico-en-bogota-entre-2007-y-2017-geopoint/table/
